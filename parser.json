@@ -1,0 +1,8 @@
+{
+  "location": null,
+  "min_version": null,
+  "url": "https://github.com/tree-sitter/tree-sitter-bash",
+  "semver": false,
+  "lang": "bash",
+  "max_version": null
+}
