@@ -1,9 +1,9 @@
 {
+  "location": null,
+  "semver": false,
   "generate": null,
   "generate_from_json": null,
   "url": "https://github.com/tree-sitter/tree-sitter-bash",
-  "semver": false,
-  "parser_version": "a06c2e4415e9bc0346c6b86d401879ffb44058f7",
   "lang": "bash",
-  "location": null
+  "parser_version": "a06c2e4415e9bc0346c6b86d401879ffb44058f7"
 }
